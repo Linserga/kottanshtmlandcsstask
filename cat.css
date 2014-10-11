@@ -1,0 +1,43 @@
+body{
+	background-color: #3394CE;
+}
+
+header {
+	font: 1.1em Georgia, serif;
+}
+
+img {
+	float: right;	
+}
+
+p::first-letter {
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+a:visited, a:link {
+	color: purple;
+}
+
+a:hover {
+	color: green;
+	font-style:italic;
+}
+
+nav a:visited, nav a:link {
+	color: black;
+}
+
+nav a:hover {
+	color: yellow;
+	font-style: italic;
+}
+
+.fq {
+	background-color: #7DBF38;
+	font-size: 1.8em;
+}
+
+.fq:after{
+	content: 'Write Us an email if you want more';
+}
