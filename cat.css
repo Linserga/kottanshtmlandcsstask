@@ -1,5 +1,5 @@
 body{
-	background-color: #3394CE;
+	background: #3394CE;
 }
 
 header {
@@ -34,7 +34,7 @@ nav a:hover {
 }
 
 .fq {
-	background-color: #7DBF38;
+	background: #7DBF38;
 	font-size: 1.8em;
 }
 
